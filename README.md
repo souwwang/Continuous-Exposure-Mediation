@@ -1,10 +1,10 @@
 # Continuous-Exposure-Mediation
-Estimation of Overall Exposure Effects for Random Effect Tobit Regression Models
+Causal Mediation Analysis for a Continuous Exposure and a Dichotomous Outcome
 
-SAS Macro for Wang W, and Griswold ME (2016). Estimating overall exposure effects for the clustered and censored outcome using random effect Tobit regression models. Statistics in Medicine, submitted.
+SAS Macro for Wang W, and Zhang B (2016). Assessing natural direct and indirect effects for a continuous exposure and a dichotomous outcome. Journal of Statistical Theory and Practice, submitted.
 
 Here is a general explanation of what is contained in this folder.
 
 Example.xls: Excel data example used to illustrate the usage of the SAS macro.
 
-Random Tobit Overall Exposure Macro V1 May 2016.sas: Main SAS macro application for the developed methods.
+Continuous Exposure Mediation Macro V1 May 2016.sas: Main SAS macro application for the developed methods.
